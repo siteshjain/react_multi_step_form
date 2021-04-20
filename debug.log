@@ -1,0 +1,10 @@
+[1129/105716.165:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0109/200532.707:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0109/225810.634:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0109/234509.156:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0109/234509.156:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0109/234509.156:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0109/235920.792:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0110/001811.419:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0110/001811.419:ERROR:exception_snapshot_win.cc(99)] thread ID 44404 not found in process
+[0110/001811.420:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
